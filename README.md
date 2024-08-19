@@ -47,6 +47,21 @@ The dataset contains 17 columns as shown below:
 - **listed_in(type)** - type of meal
 - **listed_in(city)** - neighborhood in which the restaurant is listed
 
+### Dependencies
+- Python 3.x
+- Jupyter Notebook
+- Required libraries:
+    - pandas
+    - numpy
+    - plotly
+    - seaborn
+    - matplotlib
+
+## Methodology
+
+This project uses a variety of analytical methods, including clustering, regression analysis, and heatmap generation, to explore the relationships between restaurant types, costs, ratings, and location data. These methods were chosen to gain a deeper understanding of how demographic factors affect restaurant success.
+
+
 ## Data Analysis Using Python
 
 Work flow of process:
@@ -127,6 +142,17 @@ Work flow of process:
 - **Plotly, Seaborn**, and **Matplotlib** are used for visualizing plots.
 
 For more details, please go through the Jupyter Notebook attached above.
+
+
+## Results and Insights
+
+- **Top Restaurant Chains**: Cafe Coffee Day dominates the restaurant chain landscape, followed by Onesta and Empire.
+- **Online Orders**: 64.4% of restaurants accept online orders, while 35.6% do not, reflecting a trend toward convenience.
+- **Cuisine Trends**: The most common cuisines in Bengaluru are North Indian, Chinese, and South Indian, with North Indian cuisine showing a significant influence.
+- **Affordable Restaurants**: The majority of restaurants in Bengaluru are priced under ₹1000, making dining relatively affordable across the city.
+- **Restaurant Hotspots**: BTM, HSR, and Koramangala 5th Block have the highest concentration of restaurants. BTM alone hosts more than 4000 restaurants.
+- **Geographic Distribution**: Most eateries are located in the central areas of Bengaluru, with the number of restaurants decreasing as you move further from the city center. This information could be useful for new restaurateurs looking to identify prime locations for opening new establishments.
+
 
 ## Conclusion
 
