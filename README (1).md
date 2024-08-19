@@ -1,4 +1,4 @@
-# Geospatial-Analysis
+# Culinary-Geospatial-Data-Analysis
 
 ## Objective
 
